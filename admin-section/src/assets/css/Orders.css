@@ -1,0 +1,85 @@
+.content-heading{
+    border: 1px solid #ddd;
+    border-bottom: 0px;
+    border-radius: 4px;
+    padding: 8px;
+    background-color: #fbfbfb;
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.css-yrdy0g-MuiDataGrid-columnHeaderRow{
+    font-size: larger !important;
+}
+.pending-status-cell .MuiDataGrid-cellContent{
+    background-color: #fd7e14;
+    border-radius: 50px;
+    font-size: 12px;
+    color: #fff;
+    padding: 5px 35px !important;
+  }
+  .Cancelled-status-cell .MuiDataGrid-cellContent{
+    background-color: #dc3545;
+    border-radius: 50px;
+    font-size: 12px;
+    color: #fff;
+    padding: 5px 30px !important;
+  }
+  .Processed-status-cell .MuiDataGrid-cellContent{
+    background-color: #28a745;
+    border-radius: 50px;
+    font-size: 12px;
+    color: #fff;
+    padding: 5px 30px !important;
+  }
+  .editOrder{
+    margin: 0 -25px 0 -25px;
+    position: relative;
+    padding: 30px 0px;
+    border-top: 1px solid #ededed;
+  }
+  .editOrder-img{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+  }
+  .clientDetails ul, .clientOrderDetails ul{
+    list-style: none;
+    color: #777;
+  }
+  .clientDetails ul li strong{
+    width: 140px;
+    display: inline-flex;
+    font-weight: 500;
+  }
+  .editOrder button, .order-subtotal button{
+    margin-left: 20px;
+    border-radius: 25px;
+    background: #e54750;
+    border: none;
+  }
+  .order-subtotal{
+    text-align: right;
+    margin-top: 20px;
+  }
+  .clientOrderDetails ul li strong{
+    width: 190px;
+    display: inline-flex;
+    font-weight: 500;
+    font-size: 18px;
+  }
+  .orderTotal{
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ff5353;
+    font-size: 21px;
+  }
+  .orderTotal strong{
+    font-weight: 600 !important;
+    width: 155px !important;
+    font-size: 22px !important;
+  }
+  .order-subtotal button{
+    width: 25%;
+  }

@@ -1,0 +1,63 @@
+
+.header_box h4{
+  border-bottom: 1px solid #ededed;
+  margin: 0 -25px;
+  padding: 0 30px 10px 30px;
+  margin-bottom: 15px;
+}
+.MuiTextField-root {
+    width: 100%;
+}
+.form-group h6{
+    text-align: initial;
+}
+.sub-content .form-sec{
+    text-align: center;
+}
+.MuiTextField-root.select-option{
+    text-align: initial;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+}
+.css-v4u5dn-MuiInputBase-root-MuiInput-root:before{
+    border-bottom: 0px !important;
+}
+.lisitingBtn{
+    background-image: linear-gradient(to right, #f3723b, #e54750);
+    text-transform: capitalize !important;
+    padding: 8px 25px !important; 
+}
+.MuiTabPanel-root {
+    padding: 24px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.inputTypeFile{
+    transition: .3s;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    background-color: transparent;
+    border: 2px dashed rgba(0, 0, 0, 0.1);
+    min-height: 100px;
+    padding: 0;
+    margin-bottom: 15px;
+}
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded {
+    min-height: 40px !important;
+    background-color: #f5f5f5;
+}
+.css-o4b71y-MuiAccordionSummary-content.Mui-expanded {
+    margin: 0px !important;
+}
+.MuiAccordion-root{
+    margin-top: 20px;
+}
+.inputTypeFile{
+    min-height: 200px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}

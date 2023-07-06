@@ -1,0 +1,34 @@
+.invoice-tittle.pt-4 {
+    display: flex;
+    justify-content: space-between;
+}
+.invoice-ordersummary tr {
+    height: 42px;
+}
+.invoiceOrderDetails ul li{
+    list-style: none;
+}
+.invoiceOrderDetails ul li strong{
+    width: 190px;
+    display: inline-flex;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 35px;
+  }
+  .printBtn{
+    border: none;
+    background: #e9ecef;
+    cursor: pointer;
+    padding: 2px 15px;
+    display: inline-block;
+    outline: none;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    border-radius: 25px;
+    line-height: 1;
+    font-weight: 500;
+  }
+  .printBtn Button{
+    color: #868e96 !important;
+    text-transform:lowercase !important;
+  }

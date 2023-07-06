@@ -1,0 +1,18 @@
+.custom-row, .custom-row .MuiDataGrid-cell--withRenderer, .custom-row .MuiDataGrid-cell {
+    max-height: 220px !important;
+    min-height: 220px !important;
+    border-bottom: 1px solid #ddd !important;
+}
+.MuiDataGrid-columnHeaders{
+    display: none !important;
+}
+.MuiDataGrid-virtualScrollerContent{
+    height: 100vh !important;
+}
+.rplyBtn{
+    border-radius: 25px !important;
+    background: #e54750 !important;
+    border: none !important;
+    box-shadow: none !important;
+    margin-top: 20px !important;
+}

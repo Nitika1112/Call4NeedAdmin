@@ -1,0 +1,5 @@
+.customMsg-row, .customMsg-row .MuiDataGrid-cell--withRenderer, .customMsg-row .MuiDataGrid-cell {
+    max-height: 160px !important;
+    min-height: 160px !important;
+    border-bottom: 1px solid #ddd !important;
+}
