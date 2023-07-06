@@ -10,6 +10,7 @@ function handleClick(event) {
     console.info('You clicked a breadcrumb.');
   }
 
+  
 function Bookmarks() {
   return (
     <div className="main-content">
